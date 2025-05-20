@@ -5,6 +5,8 @@
 
 This dashboard provides a comprehensive analysis of email marketing campaign performance across different types, countries, devices, and user segments. Built using **Power BI**, it enables actionable insights for improving campaign effectiveness, optimizing conversions, and refining audience targeting.
 
+![Dashboiard](assets/Email-Marketing-Analysis-Dashboard_page-0001.png)
+
 ---
 
 ## 🧠 Key Insights
@@ -77,4 +79,5 @@ This dashboard provides a comprehensive analysis of email marketing campaign per
 
 ## 📂 Files
 
-- `Email Marketing Analysis Dashboard.pdf`: Visual and analytical breakdown of email marketing performance. 
+- `Email Marketing Analysis Dashboard.pdf`: Visual and analytical breakdown of email marketing performance.
+![Dashboiard](assets/Email-Marketing-Analysis-Dashboard_page-0002.png)
