@@ -60,7 +60,7 @@ This dashboard provides a comprehensive analysis of email marketing campaign per
 - Campaign segmentation by:
   - Country
   - Device type
-  - Campaign name and type
+  - Campaign name and type 
   - Day of the week
 
 ---
