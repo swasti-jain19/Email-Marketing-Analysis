@@ -78,6 +78,4 @@ This dashboard provides a comprehensive analysis of email marketing campaign per
 ---
 
 ## 📂 Files
-
-- `Email Marketing Analysis Dashboard.pdf`: Visual and analytical breakdown of email marketing performance.
 ![Dashboiard](assets/Email-Marketing-Analysis-Dashboard_page-0002.jpg)
